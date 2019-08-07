@@ -1,0 +1,61 @@
+
+.h2CssClass{
+    text-align:center!important;
+}   
+
+.ulClass{
+    padding-left:22px!important;
+}
+
+.addProdCtgryManuallyProcsLIClass{
+    color:yellowgreen!important;
+    cursor:pointer!important;
+    padding-bottom:7px!important;
+}
+
+.addProdCtgryJsonFileProcsLIClass{
+    color:yellowgreen!important;
+    cursor:pointer!important;
+    padding-bottom:7px!important;
+}
+
+#allProdCtgryListingSummaryReportContainerDivId{
+    margin-top:20px!important;
+    margin-bottom:100px!important;
+    padding-left:10px!important;
+    padding-right:10px!important;
+}
+
+.addEachProdCtgryAllSubctgryListBtnClass{
+    font-weight:bold!important;
+    border-radius:1px!important;
+    border-color:yellowgreen!important;
+    background-color:yellowgreen!important;
+    cursor:pointer!important;
+    min-height:30px!important;
+    margin-right:5px!important;
+}
+
+.viewEachProdCtgryAllSubctgryListBtnClass{
+    font-weight:bold!important;
+    border-radius:1px!important;
+    border-color:yellowgreen!important;
+    background-color:yellowgreen!important;
+    cursor:pointer!important;
+    min-height:30px!important;
+}
+
+.removeEachProdCtgryEachSubctgryBtnClass{
+    font-weight:bold!important;
+    border-radius:1px!important;
+    border-color:yellowgreen!important;
+    background-color:yellowgreen!important;
+    cursor:pointer!important;
+    min-height:30px!important;
+}
+
+
+
+
+
+
